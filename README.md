@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![mbds-](https://github.com/youssefbarj/mbds-/raw/main/screenshot.png)
+![mbds-](https://raw.githubusercontent.com/youssefbarj/mbds-/main/screenshot.png)
 
 ## What this slide does
 
